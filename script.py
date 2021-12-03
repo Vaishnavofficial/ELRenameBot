@@ -1,10 +1,10 @@
 class script(object):
-    START_TEXT = """ A simple File Renamer Bot powered by @EL_Support!
+    START_TEXT = """ This is a simple File Renamer Bot powered by @thugbots!
 
 <b>Send me a Telegram file ! </b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = "CONTACT @EL_Support"
+    UPGRADE_TEXT = "CONTACT @vaishnavgr8"
     DOWNLOAD_START = "`Checking File...`"
     UPLOAD_START = "`Uploading...`"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me @EL_Support **"
